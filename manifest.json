@@ -1,0 +1,82 @@
+{
+    "name": "Atharva's Banner",
+    "short_name": "Banner",
+    "description": "Atharva cha portfolio. having experience as frontend developer",
+    "orientation": "portrait",
+    "start_url": "/banner",
+    "background_color": "#F00",
+    "theme_color": "#0FF",
+    "display": "fullscreen",
+    "shortcuts": [
+        {
+            "name": "Learn About Us",
+            "short_name": "About",
+            "description": "lorem ipsen",
+            "url": "./about.html",
+            "icons": [
+                {
+                    "src": "./assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        },
+        {
+            "name": "Get in touch with Us",
+            "short_name": "Contact",
+            "description": "contact lorem ipsen",
+            "url": "./contact.html",
+            "icons": [
+                {
+                    "src": "./assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
+    "icons": [
+        {
+            "src": "./assets/images/SKILLHUB-48-48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-72-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-96-96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-144-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-192-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "./assets/images/SKILLHUB-512-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "./assets/images/screenshot.JPG",
+            "type": "image/jpg",
+            "sizes": "669x436"
+        },
+        {
+            "src": "./assets/images/screenshot.png",
+            "type": "image/png",
+            "sizes": "1920x1080"
+        }
+    ]
+}
